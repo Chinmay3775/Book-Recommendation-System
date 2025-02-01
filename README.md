@@ -1,6 +1,6 @@
 # Project: ML Based Book Recommender System ! | Collaborative Filtering Based
 
-<img src="templates/intro.jpeg" alt="workflow" width="70%">
+<img src="templates/intro.webp" alt="workflow" width="70%">
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
