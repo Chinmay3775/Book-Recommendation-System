@@ -11,11 +11,15 @@ This project demonstrates how to build a collaborative filtering-based book reco
 - Pandas
 - Scikit-learn
 - Numpy
+- Streamlit
+- Jupyter Notebook
 
 ## Setup
 1. Clone the repository.
 2. Install dependencies using `pip install -r requirements.txt`.
 3. Run the main script to start the recommender system.
 
-## Learn More
-[Watch the complete playlist here](https://youtube.com/playlist?list=PLkz_y24mlSJa37r2xNDyEgt0Z4ilHtJ07&si=DbpBw2aJk-94Ndj7).
+## Dataset
+
+
+
